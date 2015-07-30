@@ -15,10 +15,11 @@ This plugin allows to install in a few minutes a monaviscompte rating label (wid
 The monaviscompte plugin is the fastest way to display and collect customer reviews on your WordPress website.
 
 The advantages of this plugin are:
-*   Improve from the first customer reviews your ranking in search engines
-*   Multiply your client orders thanks to the power of reviews (+15% conversion from the first review)
-*   Improve your service and innovate thanks to the content of reviews
-*   Demonstrate your customer culture and differentiate your company from your competitors
+
+* Improve from the first customer reviews your ranking in search engines
+* Multiply your client orders thanks to the power of reviews (+15% conversion from the first review)
+* Improve your service and innovate thanks to the content of reviews
+* Demonstrate your customer culture and differentiate your company from your competitors
 
 == Installation ==
 
@@ -27,7 +28,7 @@ The advantages of this plugin are:
 3. Go to the 'Widgets' menu in WordPress and find the 'monaviscompte' widget
 4. Drag and drop to your sidebar
 5. Enter the item id and access key given in your monaviscompte administration space, and choose the size and the color of the widget
-6. Click on 'save'
+6. Click on 'Save'
 
 == Frequently Asked Questions ==
 
@@ -43,7 +44,7 @@ All your need is a business account on monaviscompte.fr. To do so, just contact 
 == Changelog ==
 
 = 1.0.0 =
-* First version.
+* Initial release.
 
 == Upgrade Notice ==
 
