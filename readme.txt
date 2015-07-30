@@ -1,7 +1,7 @@
 === monaviscompte ===
 Contributors: monaviscompte
 Donate link: none
-Tags: widget, customer reviews
+Tags: widget, customer reviews, monaviscompte, mon avis compte
 Requires at least: 3.0.1
 Tested up to: 4.2.3
 Stable tag: 1.0.0
